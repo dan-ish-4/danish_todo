@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danish_todo/static/css/main.399c45e4.css",
+    "main.js": "/danish_todo/static/js/main.34edd209.js",
+    "static/js/787.c9d84bc3.chunk.js": "/danish_todo/static/js/787.c9d84bc3.chunk.js",
+    "index.html": "/danish_todo/index.html",
+    "main.399c45e4.css.map": "/danish_todo/static/css/main.399c45e4.css.map",
+    "main.34edd209.js.map": "/danish_todo/static/js/main.34edd209.js.map",
+    "787.c9d84bc3.chunk.js.map": "/danish_todo/static/js/787.c9d84bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399c45e4.css",
+    "static/js/main.34edd209.js"
+  ]
+}
